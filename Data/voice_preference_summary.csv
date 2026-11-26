@@ -1,0 +1,7 @@
+task,parameter,n,V0_votes,V1_votes,V2_votes
+Welcome,Pitch,16,5,3,8
+Welcome,Loudness,16,4,1,11
+Welcome,Intonation,16,5,7,4
+Wayfinding,Pitch,16,2,6,8
+Wayfinding,Loudness,16,5,0,11
+Wayfinding,Intonation,16,6,4,6

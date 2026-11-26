@@ -1,0 +1,7 @@
+# Data notes
+
+These aggregate tables reproduce the descriptive analysis reported in the thesis using the supplied V9 study CSV. The analytical subset is provisional: three early complete sessions on 18 November were treated as likely pilot sessions, and one incomplete session was excluded. The researcher recalls that stimuli were revised during pilot testing and formal testing likely began on 20 November. Session timing and a stimulus file modification timestamp support this reconstruction but do not conclusively establish pilot membership. Confirm the subset against contemporaneous research records before treating it as definitive. Agreement with the thesis is a consistency check, not an exclusion criterion.
+
+The resulting subset contains 16 complete sessions, 288 voice-level records and 96 preference selections. Each task–parameter–variant combination contains 16 observations. Rating means are arithmetic means of the 1–7 ratings; changes subtract the corresponding original-voice mean within each task and parameter. Preference counts sum to 16 within each block. All figures are descriptive; no statistical significance is claimed.
+
+Only aggregate results are included. The original CSV is retained separately, unchanged, and is not distributed here. Do not publish participant-level records, timestamps or consent documents. Any sharing is subject to the study consent, ethics requirements and retention policy.
