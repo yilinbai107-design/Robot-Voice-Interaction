@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+.venv/
+Research_Data/
+voice_ratings*.csv
+.DS_Store
+Thumbs.db
